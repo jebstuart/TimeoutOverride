@@ -1,4 +1,6 @@
 /build
 *.iml
 *.swp
-
+.idea
+.gradle
+local.properties
